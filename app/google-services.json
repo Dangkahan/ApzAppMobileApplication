@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554865683778",
+    "project_id": "mobile-application-apz",
+    "storage_bucket": "mobile-application-apz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554865683778:android:34ed31cf9cde121992ecdb",
+        "android_client_info": {
+          "package_name": "apzshop.client_mobile.apzappmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg98MKSAIK8BcHW5ePYst3k5TJ9mi6610"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
